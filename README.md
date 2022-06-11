@@ -1,12 +1,31 @@
 # Tugas7Sbd
-Nama  : Irga Ramadhan Putra
-kelas :TI.20.D1
-NIM   : 312010067
-Matkul: Sistem Basis Data
+<table>
+  <tr>
+    <td>Nama</td>
+    <td>Irga Ramadhan Putra</td>
+  </tr>
+  <tr>
+    <td>NIM</td>
+    <td>312010067</td>
+  </tr>
+  <tr>
+    <td>Kelas</td>
+    <td>TI 20 D1</td>
+  </tr>
+  <tr>
+    <td>Matkul</td>
+    <td>Sistem Basis Data</td>
+  </tr>
+</table>
 
 Pisahkan per table
 
 ![image](https://user-images.githubusercontent.com/101645216/172812219-d19d1732-8479-4ba6-8a6f-9965cd3e37ba.png)
+
+- Koneski
+
+![image](https://user-images.githubusercontent.com/101645216/173183789-4d579e99-3905-4a73-95e3-73c228e2930c.png)
+
 
 - Pasien
 
